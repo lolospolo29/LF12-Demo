@@ -1,0 +1,28 @@
+{
+  "grid": {
+    "rows": 15,
+    "columns": 15,
+    "cells": [
+      {"row": 1, "column": 1, "value": null},
+      {"row": 1, "column": 2, "value": null},
+      {"row": 8, "column": 7, "value": "S"},
+      {"row": 8, "column": 8, "value": "A"},
+      {"row": 8, "column": 9, "value": "S"},
+      {"row": 8, "column": 10, "value": "S"},
+      {"row": 8, "column": 11, "value": "E"}
+    ]
+  },
+  "word_list": {
+    "5_letters": ["APOLL", "ARMEE", "ASIEN", "BASKE", "EINIG", "INSEL", "KÜSEN", "NAHE", "SEIDE", "THEMA", "VAREL", "WEDER", "WERFT"],
+    "6_letters": ["KINSEL", "NEVADA", "SILBER", "STRAUS"],
+    "7_letters": ["ANSTUR", "GÄSTE", "ENOUGH", "GITARRE", "WIKTOR", "BRIGEN", "KRIEGE", "LIEFER", "MAKABR", "MALERN", "ANKIEKE", "TIECHER", "WELKES", "WHISPER"],
+    "8_letters": ["ANNEHMEN", "ANDROMED", "BLONDINE", "HOHLRAUM", "KARTÄUSE", "ZIEHUNG"],
+    "9_letters": ["MINKELSAG", "HEIDENTUM", "HERKÖMMEN"],
+    "10_letters": ["SCHALDING", "STEINARZT", "RELIGIOUS", "RÜBEZAHL", "DÄMMERN", "HOCHWASSER", "OSTERHOF", "MORTABILE", "STILBLÜTE", "REALSCHULE"]
+  },
+  "start_word": {
+    "word": "SASSE",
+    "position": {"row": 8, "column": 7},
+    "orientation": "horizontal"
+  }
+}
